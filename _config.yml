@@ -22,7 +22,7 @@ title: Vesta Zhelyaskova
 email: vesta.zhelyaskova@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website.
-baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
+baseurl: "/vestavz" # the subpath of your site, e.g. /blog
 url: "https://vzhelyaskova.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vzhelyaskova
 
